@@ -3,23 +3,27 @@ title: ""
 ---
 
 ::: {.section-card}
+
 # About Me
 
-I am a Statistics and Data Science student at UCLA interested in statistical modeling, data analysis, and quantitative research. My work focuses on using data to better understand real-world problems and communicate insights clearly through analysis, visualization, and structured storytelling.
+I am a Statistics and Data Science student at UCLA interested in statistical modeling, data analysis, and quantitative research. My work focuses on using data to better understand real-world problems and communicate insights clearly through analysis and visualization.
 
 Through coursework and projects, I have worked with methods including regression modeling, classification algorithms, ANOVA, and broader statistical learning techniques. I enjoy combining technical analysis with clear explanations so that complex findings can be communicated in a way that is both rigorous and accessible.
 
-My interests span several areas, including data science, applied statistics, quantitative finance, and research that uses data to study social and economic systems. I am particularly interested in how statistical methods can reveal patterns in large datasets and support evidence-based decision making.
+My interests span several areas including data science, applied statistics, quantitative finance, and research that uses data to study social and economic systems. I am particularly interested in how statistical methods can reveal patterns in large datasets and support evidence-based decision making.
 
 Beyond coursework, I enjoy building projects that combine statistical methods with real datasets, whether through predictive modeling, exploratory data analysis, experimental design, or public-facing digital research.
+
 :::
 
 ::: {.section-card}
+
 ## <i class="bi bi-stars"></i> What I Value
 
-- Clear and thoughtful communication
-- Strong analytical foundations
-- Practical applications of statistics
-- Well-designed, user-friendly presentation
-- Using data to support better decisions
+- Clear and thoughtful communication  
+- Strong analytical foundations  
+- Practical applications of statistics  
+- Well-designed, user-friendly presentation  
+- Using data to support better decisions  
+
 :::

@@ -3,91 +3,67 @@ title: ""
 ---
 
 ::: {.projects-header}
+
 # Selected Work
 
-A selection of projects that reflect how I approach data: rigorous methods, strong communication, and polished presentation.
+A selection of projects that reflect how I approach data: rigorous methods, clear communication, and thoughtful analysis.
+
 :::
 
 ::: {.project-grid}
 
 ::: {.project-card}
-::: {.project-topline}
-<div class="project-number">Featured Project 01</div>
-:::
 
 ### <i class="bi bi-globe2"></i> Beyond the Board
 
 <div class="project-summary">
-A digital humanities project examining structural inequality in education through historical context, policy analysis, and data visualization.
+A digital humanities project examining structural inequality in education through historical context, policy analysis, and narrative storytelling.
 </div>
 
 <div class="project-detail">
-The project explores how historical policy decisions, socioeconomic conditions, and racial disparities shape educational opportunity over time. Through narrative storytelling, historical framing, and public-facing design, the website highlights how structural inequality in education continues to influence outcomes today.
+The project explores how historical policy decisions, socioeconomic conditions, and racial disparities shape educational opportunity over time.
 </div>
-
-::: {.project-tags}
-[Digital Humanities]{.tag} [Data Storytelling]{.tag} [Research]{.tag} [Public Scholarship]{.tag}
-:::
 
 ::: {.project-links}
 <a href="https://beyondtheboard.vercel.app" target="_blank" class="project-link"><i class="bi bi-arrow-up-right"></i> View Website</a>
 :::
+
 :::
 
 ::: {.project-card}
-::: {.project-topline}
-<div class="project-number">Featured Project 02</div>
-:::
 
 ### <i class="bi bi-file-earmark-bar-graph"></i> Predicting US Skin Cancer Status
 
 <div class="project-summary">
-A statistical learning project that builds classification models to predict whether skin cancer cases are benign or malignant using a dataset with over 50,000 observations and 50 predictors.
+A statistical learning project building classification models to predict benign versus malignant skin cancer cases using more than 50,000 observations.
 </div>
 
 <div class="project-detail">
-Multiple models were compared, including Generalized Linear Models, Linear Discriminant Analysis, and Random Forest. After evaluating predictive performance, Linear Discriminant Analysis was selected as the final model because it balanced strong classification performance with interpretability.
+Compared multiple models including GLM, LDA, and Random Forest. LDA was selected as the final model based on predictive performance and interpretability.
 </div>
 
-::: {.project-tags}
-[R]{.tag} [GLM]{.tag} [LDA]{.tag} [Random Forest]{.tag} [Cross Validation]{.tag}
+::: {.project-links}
+<a href="papers/101c-final-project-paper.pdf" target="_blank" class="project-link"><i class="bi bi-file-earmark-text"></i> Research Paper</a>
 :::
 
-::: {.project-links}
-<a href="papers/101c-final-project-paper.pdf" target="_blank" class="project-link"><i class="bi bi-file-earmark-text"></i> Read Research Paper</a>
-:::
 :::
 
 ::: {.project-card}
-::: {.project-topline}
-<div class="project-number">Featured Project 03</div>
-:::
 
 ### <i class="bi bi-activity"></i> Music, Exercise Intensity, and Performance
 
 <div class="project-summary">
-A factorial ANOVA study analyzing how music genre and exercise intensity influence running performance and heart rate.
+A factorial ANOVA experiment analyzing how music genre and exercise intensity influence running performance.
 </div>
 
 <div class="project-detail">
-The analysis examined both main effects and interaction effects between music condition and exercise intensity. Results showed that exercise intensity had the strongest effect on performance outcomes, while music condition contributed smaller but still meaningful differences in pace and heart rate.
+Results showed exercise intensity had the strongest effect on running time, while music condition produced smaller but measurable differences.
 </div>
 
-::: {.project-tags}
-[ANOVA]{.tag} [Experimental Design]{.tag} [Inference]{.tag} [R]{.tag}
-:::
-
 ::: {.project-links}
-<a href="papers/101b-final-project-paper.pdf" target="_blank" class="project-link"><i class="bi bi-file-earmark-text"></i> Read Research Paper</a>
-:::
-:::
-
+<a href="papers/101b-final-project-paper.pdf" target="_blank" class="project-link"><i class="bi bi-file-earmark-text"></i> Research Paper</a>
 :::
 
-::: {.section-card .paper-links}
-## <i class="bi bi-folder2-open"></i> Documents
+:::
 
-- [Skin Cancer Research Paper](papers/101c-final-project-paper.pdf){target="_blank"}
-- [Music and Performance Research Paper](papers/101b-final-project-paper.pdf){target="_blank"}
-- [Resume](resume.pdf){target="_blank"}
 :::

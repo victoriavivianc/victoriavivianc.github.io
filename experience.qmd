@@ -3,6 +3,7 @@ title: ""
 ---
 
 ::: {.section-card}
+
 # Experience
 
 ::: {.timeline-list}
@@ -25,27 +26,23 @@ Supported strategic and market research projects through analysis of business tr
 <div class="timeline-role"><i class="bi bi-people"></i> President — Indonesian Bruin Student Association</div>
 <div class="timeline-meta">UCLA</div>
 
-Led student programming, planning, and coordination efforts while supporting community engagement on campus. Worked across teams to organize events, manage responsibilities, and strengthen student involvement.
+Led student programming, planning, and coordination efforts while supporting community engagement on campus.
 :::
 
 ::: {.timeline-item}
 <div class="timeline-role"><i class="bi bi-trophy"></i> Data Journalist — Bruin Sports Analytics</div>
 <div class="timeline-meta">UCLA</div>
 
-Created sports-focused analytical content that combined data, storytelling, and visual communication. Used quantitative methods to explore performance patterns and present findings in a clear and engaging way.
+Created sports-focused analytical content combining data, storytelling, and visualization.
 :::
 
 :::
 :::
 
 ::: {.section-card}
-## <i class="bi bi-journal-text"></i> Academic Background
 
-As a UCLA Statistics and Data Science student, I have completed work in statistical learning, regression modeling, experimental design, inference, and data analysis. My academic projects apply machine learning methods, classification models, and statistical testing to real-world datasets.
-:::
-
-::: {.section-card}
 ## <i class="bi bi-tools"></i> Tools
 
-R, Python, SQL, Excel, Kubeflow, QuickBI, Quarto, and data visualization workflows for research, reporting, and presentation.
+R • Python • SQL • Excel • Kubeflow • QuickBI • Quarto • Data Visualization
+
 :::

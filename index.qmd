@@ -50,32 +50,6 @@ Data science, quantitative finance, analytics, and strategy-oriented roles that 
 :::
 
 ::: {.section-card}
-## Featured Work
-
-::: {.timeline-list}
-
-::: {.timeline-item}
-<div class="timeline-role">Predicting US Skin Cancer Status</div>
-<div class="timeline-meta">Machine learning and statistical classification</div>
-Built and compared classification models on more than 50,000 observations to predict benign versus malignant skin cancer status.
-:::
-
-::: {.timeline-item}
-<div class="timeline-role">Beyond the Board</div>
-<div class="timeline-meta">Digital humanities and public-facing research</div>
-Created a website exploring structural inequality in education through narrative writing, historical framing, and data storytelling.
-:::
-
-::: {.timeline-item}
-<div class="timeline-role">Music, Exercise Intensity, and Performance</div>
-<div class="timeline-meta">Experimental design and statistical inference</div>
-Used factorial ANOVA to study how music and exercise intensity influence running performance and heart rate.
-:::
-
-:::
-:::
-
-::: {.section-card}
 ## Welcome
 
 I am a UCLA Statistics and Data Science student interested in statistical modeling, machine learning, data analysis, and research communication. I enjoy building work that combines technical rigor with clarity, whether that means developing predictive models, designing experiments, or presenting insights through polished reports and public-facing websites.

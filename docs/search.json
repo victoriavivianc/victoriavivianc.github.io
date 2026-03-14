@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m a Statistics & Data Science student at UCLA with a strong interest in quantitative analysis, finance, and data-driven storytelling. My academic and project work has helped me build a foundation in statistical modeling, inference, machine learning, and experimental design, while also showing me the importance of clear communication and context.\nWhat draws me most to this field is the ability to turn complex information into insight. I enjoy the full process of analytical work: asking the right questions, cleaning and understanding the data, selecting methods carefully, and presenting results in a way that is useful and persuasive. For me, strong analysis is not only about technical correctness, but also about clarity, structure, and impact.\nBeyond coursework, I’ve explored this through internships, research-based projects, and leadership experiences. My work has included credit risk and data science at GoTo, public-facing digital humanities research, and student-led projects in statistical learning and applied inference. These experiences have strengthened both my technical skills and my interest in solving real-world problems with data.\nI’m especially interested in opportunities at the intersection of analytics, finance, and decision-making. Looking ahead, I hope to continue building work that combines quantitative rigor with strong communication, whether in risk, strategy, data science, or broader analytical roles."
+  },
+  {
+    "objectID": "about.html#what-i-value",
+    "href": "about.html#what-i-value",
+    "title": "About",
+    "section": " What I Value",
+    "text": "What I Value\n\nClear and thoughtful communication\nStrong analytical foundations\nPractical applications of statistics\nWell-designed, user-friendly presentation\nUsing data to support better decisions"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Statistics, data storytelling, and quantitative thinking for real-world decisions.",
@@ -12,5 +26,40 @@
     "title": "Statistics, data storytelling, and quantitative thinking for real-world decisions.",
     "section": "Welcome",
     "text": "Welcome\nI’m Victoria Vivian Chan, a UCLA Statistics & Data Science student with interests in data science, quantitative finance, analytics, and research communication. I enjoy building work that is both technically strong and easy to understand, whether that takes the form of a model, report, presentation, or public-facing website.\nMy experience includes internships in data science and corporate development at GoTo, leadership roles at UCLA, and projects across statistical learning, experimental design, and digital humanities. Across all of these, I care about using data thoughtfully and communicating ideas clearly."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nI’d be happy to connect about opportunities, projects, or anything related to data science, analytics, finance, or research.\n\n chanvictoriavivian@gmail.com\n\n\n  Victoria Vivian Chan \n\n\n Resume"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of projects that reflect how I approach data: rigorous methods, strong communication, and polished presentation."
+  },
+  {
+    "objectID": "projects.html#documents",
+    "href": "projects.html#documents",
+    "title": "Projects",
+    "section": " Documents",
+    "text": "Documents\n\nSkin Cancer Research Paper\nMusic and Performance Research Paper\nResume"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Data Science Intern — GoTo\n\n\n2025\n\nWorked on credit risk and model-monitoring related tasks, including performance analysis, drift checks, and production-oriented data workflows. Supported analytical work that connected modeling, business risk, and real-world deployment.\n\n\n\n Corporate Development Intern — GoTo\n\n\n2024\n\nSupported strategic and market research projects through analysis of industry trends, financial materials, and business reports. Contributed to presentations and research used for broader corporate decision-making.\n\n\n\n President — Indonesian Bruin Student Association\n\n\nUCLA\n\nLed student programming, planning, and coordination efforts while helping strengthen community engagement on campus. Worked across teams to organize events, manage responsibilities, and support club initiatives.\n\n\n\n Data Journalist — Bruin Sports Analytics\n\n\nUCLA\n\nCreated sports-focused analytical content that combined data, storytelling, and visual communication. Used quantitative methods to explore patterns in performance and communicate findings in an engaging way."
+  },
+  {
+    "objectID": "experience.html#tools",
+    "href": "experience.html#tools",
+    "title": "Experience",
+    "section": " Tools",
+    "text": "Tools\nR, Python, SQL, Excel, Kubeflow, QuickBI, Quarto, and data visualization workflows for research, reporting, and presentation."
   }
 ]

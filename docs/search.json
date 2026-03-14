@@ -2,16 +2,16 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "I’m a Statistics & Data Science student at UCLA with a strong interest in quantitative analysis, finance, and data-driven storytelling. My academic and project work has helped me build a foundation in statistical modeling, inference, machine learning, and experimental design, while also showing me the importance of clear communication and context.\nWhat draws me most to this field is the ability to turn complex information into insight. I enjoy the full process of analytical work: asking the right questions, cleaning and understanding the data, selecting methods carefully, and presenting results in a way that is useful and persuasive. For me, strong analysis is not only about technical correctness, but also about clarity, structure, and impact.\nBeyond coursework, I’ve explored this through internships, research-based projects, and leadership experiences. My work has included credit risk and data science at GoTo, public-facing digital humanities research, and student-led projects in statistical learning and applied inference. These experiences have strengthened both my technical skills and my interest in solving real-world problems with data.\nI’m especially interested in opportunities at the intersection of analytics, finance, and decision-making. Looking ahead, I hope to continue building work that combines quantitative rigor with strong communication, whether in risk, strategy, data science, or broader analytical roles."
+    "text": "I am a Statistics and Data Science student at UCLA interested in statistical modeling, data analysis, and quantitative research. My work focuses on using data to better understand real-world problems and communicate insights clearly through analysis and visualization.\nThrough coursework and projects, I have worked with methods including regression modeling, classification algorithms, ANOVA, and broader statistical learning techniques. I enjoy combining technical analysis with clear explanations so that complex findings can be communicated in a way that is both rigorous and accessible.\nMy interests span several areas including data science, applied statistics, quantitative finance, and research that uses data to study social and economic systems. I am particularly interested in how statistical methods can reveal patterns in large datasets and support evidence-based decision making.\nBeyond coursework, I enjoy building projects that combine statistical methods with real datasets, whether through predictive modeling, exploratory data analysis, experimental design, or public-facing digital research."
   },
   {
     "objectID": "about.html#what-i-value",
     "href": "about.html#what-i-value",
-    "title": "About",
+    "title": "About Me",
     "section": " What I Value",
-    "text": "What I Value\n\nClear and thoughtful communication\nStrong analytical foundations\nPractical applications of statistics\nWell-designed, user-friendly presentation\nUsing data to support better decisions"
+    "text": "What I Value\n\nClear and thoughtful communication\n\nStrong analytical foundations\n\nPractical applications of statistics\n\nWell-designed, user-friendly presentation\n\nUsing data to support better decisions"
   },
   {
     "objectID": "index.html",
@@ -30,43 +30,29 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "Let’s Connect",
     "section": "",
-    "text": "Contact\nI’d be happy to connect about opportunities, projects, or anything related to data science, analytics, finance, or research.\n\n chanvictoriavivian@gmail.com\n\n\n  Victoria Vivian Chan \n\n\n Resume"
+    "text": "Let’s Connect\nI’m always happy to connect about data science, analytics, research, finance, or collaboration opportunities.\n\n chanvictoriavivian@gmail.com\n\n\n LinkedIn\n\n\n Resume"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Selected Work",
     "section": "",
-    "text": "A selection of projects that reflect how I approach data: rigorous methods, strong communication, and polished presentation."
-  },
-  {
-    "objectID": "projects.html#documents",
-    "href": "projects.html#documents",
-    "title": "Projects",
-    "section": " Documents",
-    "text": "Documents\n\nSkin Cancer Research Paper\nMusic and Performance Research Paper\nResume"
+    "text": "Selected Work\nA selection of projects that reflect how I approach data: rigorous methods, clear communication, and thoughtful analysis.\n\n\n\n Beyond the Board\n\nA digital humanities project examining structural inequality in education through historical context, policy analysis, and narrative storytelling.\n\n\nThe project explores how historical policy decisions, socioeconomic conditions, and racial disparities shape educational opportunity over time.\n\n\n View Website\n\n\n\n Predicting US Skin Cancer Status\n\nA statistical learning project building classification models to predict benign versus malignant skin cancer cases using more than 50,000 observations.\n\n\nCompared multiple models including GLM, LDA, and Random Forest. LDA was selected as the final model based on predictive performance and interpretability.\n\n\n Research Paper\n\n\n\n Music, Exercise Intensity, and Performance\n\nA factorial ANOVA experiment analyzing how music genre and exercise intensity influence running performance.\n\n\nResults showed exercise intensity had the strongest effect on running time, while music condition produced smaller but measurable differences.\n\n\n Research Paper"
   },
   {
     "objectID": "experience.html",
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "Data Science Intern — GoTo\n\n\n2025\n\nWorked on credit risk and model-monitoring related tasks, including performance analysis, drift checks, and production-oriented data workflows. Supported analytical work that connected modeling, business risk, and real-world deployment.\n\n\n\n Corporate Development Intern — GoTo\n\n\n2024\n\nSupported strategic and market research projects through analysis of industry trends, financial materials, and business reports. Contributed to presentations and research used for broader corporate decision-making.\n\n\n\n President — Indonesian Bruin Student Association\n\n\nUCLA\n\nLed student programming, planning, and coordination efforts while helping strengthen community engagement on campus. Worked across teams to organize events, manage responsibilities, and support club initiatives.\n\n\n\n Data Journalist — Bruin Sports Analytics\n\n\nUCLA\n\nCreated sports-focused analytical content that combined data, storytelling, and visual communication. Used quantitative methods to explore patterns in performance and communicate findings in an engaging way."
+    "text": "Data Science Intern — GoTo\n\n\n2025\n\nWorked on data science initiatives related to credit risk analysis, model monitoring, and financial data workflows. Contributed to analytical processes that supported risk evaluation and data-driven decision making.\n\n\n\n Corporate Development Intern — GoTo\n\n\n2024\n\nSupported strategic and market research projects through analysis of business trends, industry materials, and financial information. Helped prepare research and presentation materials used for broader strategic discussion.\n\n\n\n President — Indonesian Bruin Student Association\n\n\nUCLA\n\nLed student programming, planning, and coordination efforts while supporting community engagement on campus.\n\n\n\n Data Journalist — Bruin Sports Analytics\n\n\nUCLA\n\nCreated sports-focused analytical content combining data, storytelling, and visualization."
   },
   {
     "objectID": "experience.html#tools",
     "href": "experience.html#tools",
     "title": "Experience",
     "section": " Tools",
-    "text": "Tools\nR, Python, SQL, Excel, Kubeflow, QuickBI, Quarto, and data visualization workflows for research, reporting, and presentation."
-  },
-  {
-    "objectID": "index.html#featured-work",
-    "href": "index.html#featured-work",
-    "title": "Statistics, data science, and quantitative analysis for real-world problems.",
-    "section": "Featured Work",
-    "text": "Featured Work\n\n\n\nPredicting US Skin Cancer Status\n\n\nMachine learning and statistical classification\n\nBuilt and compared classification models on more than 50,000 observations to predict benign versus malignant skin cancer status.\n\n\n\nBeyond the Board\n\n\nDigital humanities and public-facing research\n\nCreated a website exploring structural inequality in education through narrative writing, historical framing, and data storytelling.\n\n\n\nMusic, Exercise Intensity, and Performance\n\n\nExperimental design and statistical inference\n\nUsed factorial ANOVA to study how music and exercise intensity influence running performance and heart rate."
+    "text": "Tools\nR • Python • SQL • Excel • Kubeflow • QuickBI • Quarto • Data Visualization"
   }
 ]

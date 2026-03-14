@@ -16,16 +16,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Statistics, data storytelling, and quantitative thinking for real-world decisions.",
+    "title": "Statistics, data science, and quantitative analysis for real-world problems.",
     "section": "",
-    "text": "Victoria Vivian Chan\n\n\n\n\nUCLA Statistics & Data Science student building analytical, research-driven, and public-facing work across data science, finance, and storytelling.\n\n\nI’m interested in turning technical analysis into clear, useful narratives which ranges from statistical learning and experimentation to credit risk, digital humanities, and finance.\n\n\n Explore Projects  View Resume"
+    "text": "Victoria Vivian Chan\n\n\n\n\nUCLA Statistics & Data Science student building analytical, research-driven, and data-focused work across machine learning, statistical modeling, and data storytelling.\n\n\nI am interested in applying statistical and computational methods to understand complex datasets and support data-driven decision making. My work ranges from statistical learning and experimental design to digital humanities and applied analytics, with growing interests in quantitative finance, risk, and strategy.\n\n\n Explore Projects  View Resume"
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
-    "title": "Statistics, data storytelling, and quantitative thinking for real-world decisions.",
+    "title": "Statistics, data science, and quantitative analysis for real-world problems.",
     "section": "Welcome",
-    "text": "Welcome\nI’m Victoria Vivian Chan, a UCLA Statistics & Data Science student with interests in data science, quantitative finance, analytics, and research communication. I enjoy building work that is both technically strong and easy to understand, whether that takes the form of a model, report, presentation, or public-facing website.\nMy experience includes internships in data science and corporate development at GoTo, leadership roles at UCLA, and projects across statistical learning, experimental design, and digital humanities. Across all of these, I care about using data thoughtfully and communicating ideas clearly."
+    "text": "Welcome\nI am a UCLA Statistics and Data Science student interested in statistical modeling, machine learning, data analysis, and research communication. I enjoy building work that combines technical rigor with clarity, whether that means developing predictive models, designing experiments, or presenting insights through polished reports and public-facing websites.\nAcross coursework, internships, and independent projects, I have worked on problems involving classification, inference, visualization, and applied analytics. I am especially interested in opportunities where strong analytical methods can support better decision making."
   },
   {
     "objectID": "contact.html",
@@ -61,5 +61,12 @@
     "title": "Experience",
     "section": " Tools",
     "text": "Tools\nR, Python, SQL, Excel, Kubeflow, QuickBI, Quarto, and data visualization workflows for research, reporting, and presentation."
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Statistics, data science, and quantitative analysis for real-world problems.",
+    "section": "Featured Work",
+    "text": "Featured Work\n\n\n\nPredicting US Skin Cancer Status\n\n\nMachine learning and statistical classification\n\nBuilt and compared classification models on more than 50,000 observations to predict benign versus malignant skin cancer status.\n\n\n\nBeyond the Board\n\n\nDigital humanities and public-facing research\n\nCreated a website exploring structural inequality in education through narrative writing, historical framing, and data storytelling.\n\n\n\nMusic, Exercise Intensity, and Performance\n\n\nExperimental design and statistical inference\n\nUsed factorial ANOVA to study how music and exercise intensity influence running performance and heart rate."
   }
 ]

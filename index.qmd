@@ -8,14 +8,14 @@ page-layout: full
 ::: {.hero-text}
 <div class="hero-kicker">Victoria Vivian Chan</div>
 
-# Statistics, data storytelling, and quantitative thinking for real-world decisions.
+# Statistics, data science, and quantitative analysis for real-world problems.
 
 <div class="hero-subtitle">
-UCLA Statistics & Data Science student building analytical, research-driven, and public-facing work across data science, finance, and storytelling.
+UCLA Statistics &amp; Data Science student building analytical, research-driven, and data-focused work across machine learning, statistical modeling, and data storytelling.
 </div>
 
 <div class="hero-description">
-I’m interested in turning technical analysis into clear, useful narratives which ranges from statistical learning and experimentation to credit risk, digital humanities, and finance.
+I am interested in applying statistical and computational methods to understand complex datasets and support data-driven decision making. My work ranges from statistical learning and experimental design to digital humanities and applied analytics, with growing interests in quantitative finance, risk, and strategy.
 </div>
 
 <div class="hero-actions">
@@ -34,25 +34,51 @@ I’m interested in turning technical analysis into clear, useful narratives whi
 
 ::: {.feature-mini-card}
 ### <i class="bi bi-briefcase"></i> Current Focus
-Credit risk, analytics, statistical modeling, and research-driven work that connects technical depth with practical impact.
+Data science, analytical research, and practical applications of statistics across academic and professional work.
 :::
 
 ::: {.feature-mini-card}
 ### <i class="bi bi-bar-chart-line"></i> Strengths
-Statistical learning, data storytelling, experimental design, and presenting technical work in a clear and polished way.
+Statistical modeling, machine learning, experimentation, and translating technical analysis into clear insights.
 :::
 
 ::: {.feature-mini-card}
-### <i class="bi bi-mortarboard"></i> Next Step
-Incoming M.S. in Quantitative Finance at NUS, with long-term interests in finance, risk, and applied analytics.
+### <i class="bi bi-mortarboard"></i> Career Interests
+Data science, quantitative finance, analytics, and strategy-oriented roles that value rigorous and thoughtful problem solving.
 :::
 
 :::
 
 ::: {.section-card}
+## Featured Work
+
+::: {.timeline-list}
+
+::: {.timeline-item}
+<div class="timeline-role">Predicting US Skin Cancer Status</div>
+<div class="timeline-meta">Machine learning and statistical classification</div>
+Built and compared classification models on more than 50,000 observations to predict benign versus malignant skin cancer status.
+:::
+
+::: {.timeline-item}
+<div class="timeline-role">Beyond the Board</div>
+<div class="timeline-meta">Digital humanities and public-facing research</div>
+Created a website exploring structural inequality in education through narrative writing, historical framing, and data storytelling.
+:::
+
+::: {.timeline-item}
+<div class="timeline-role">Music, Exercise Intensity, and Performance</div>
+<div class="timeline-meta">Experimental design and statistical inference</div>
+Used factorial ANOVA to study how music and exercise intensity influence running performance and heart rate.
+:::
+
+:::
+:::
+
+::: {.section-card}
 ## Welcome
 
-I’m Victoria Vivian Chan, a UCLA Statistics & Data Science student with interests in data science, quantitative finance, analytics, and research communication. I enjoy building work that is both technically strong and easy to understand, whether that takes the form of a model, report, presentation, or public-facing website.
+I am a UCLA Statistics and Data Science student interested in statistical modeling, machine learning, data analysis, and research communication. I enjoy building work that combines technical rigor with clarity, whether that means developing predictive models, designing experiments, or presenting insights through polished reports and public-facing websites.
 
-My experience includes internships in data science and corporate development at GoTo, leadership roles at UCLA, and projects across statistical learning, experimental design, and digital humanities. Across all of these, I care about using data thoughtfully and communicating ideas clearly.
+Across coursework, internships, and independent projects, I have worked on problems involving classification, inference, visualization, and applied analytics. I am especially interested in opportunities where strong analytical methods can support better decision making.
 :::

@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: ""
 ---
 
 ::: {.projects-header}
@@ -18,11 +18,15 @@ A selection of projects that reflect how I approach data: rigorous methods, stro
 ### <i class="bi bi-globe2"></i> Beyond the Board
 
 <div class="project-summary">
-A public-facing education inequality website that combines historical context, narrative writing, and digital storytelling to examine how race and socioeconomic inequality shape educational outcomes.
+A digital humanities project examining structural inequality in education through historical context, policy analysis, and data visualization.
+</div>
+
+<div class="project-detail">
+The project explores how historical policy decisions, socioeconomic conditions, and racial disparities shape educational opportunity over time. Through narrative storytelling, historical framing, and public-facing design, the website highlights how structural inequality in education continues to influence outcomes today.
 </div>
 
 ::: {.project-tags}
-[Digital Humanities]{.tag} [Data Storytelling]{.tag} [Research]{.tag} 
+[Digital Humanities]{.tag} [Data Storytelling]{.tag} [Research]{.tag} [Public Scholarship]{.tag}
 :::
 
 ::: {.project-links}
@@ -38,15 +42,15 @@ A public-facing education inequality website that combines historical context, n
 ### <i class="bi bi-file-earmark-bar-graph"></i> Predicting US Skin Cancer Status
 
 <div class="project-summary">
-A statistical learning project using 50,000 observations and 50 predictors to classify benign versus malignant skin cancer cases.
+A statistical learning project that builds classification models to predict whether skin cancer cases are benign or malignant using a dataset with over 50,000 observations and 50 predictors.
 </div>
 
 <div class="project-detail">
-<strong>Highlights:</strong> compared GLM, LDA, and Random Forest, and selected LDA as the final model based on performance and interpretability.
+Multiple models were compared, including Generalized Linear Models, Linear Discriminant Analysis, and Random Forest. After evaluating predictive performance, Linear Discriminant Analysis was selected as the final model because it balanced strong classification performance with interpretability.
 </div>
 
 ::: {.project-tags}
-[R]{.tag} [Classification]{.tag} [LDA]{.tag} [Random Forest]{.tag}
+[R]{.tag} [GLM]{.tag} [LDA]{.tag} [Random Forest]{.tag} [Cross Validation]{.tag}
 :::
 
 ::: {.project-links}
@@ -62,15 +66,15 @@ A statistical learning project using 50,000 observations and 50 predictors to cl
 ### <i class="bi bi-activity"></i> Music, Exercise Intensity, and Performance
 
 <div class="project-summary">
-A factorial ANOVA project studying how music genre and exercise intensity affect running time and heart rate.
+A factorial ANOVA study analyzing how music genre and exercise intensity influence running performance and heart rate.
 </div>
 
 <div class="project-detail">
-<strong>Highlights:</strong> examined how experimental conditions interact to shape performance outcomes and physiological response.
+The analysis examined both main effects and interaction effects between music condition and exercise intensity. Results showed that exercise intensity had the strongest effect on performance outcomes, while music condition contributed smaller but still meaningful differences in pace and heart rate.
 </div>
 
 ::: {.project-tags}
-[ANOVA]{.tag} [Experimental Design]{.tag} [R]{.tag} [Inference]{.tag}
+[ANOVA]{.tag} [Experimental Design]{.tag} [Inference]{.tag} [R]{.tag}
 :::
 
 ::: {.project-links}

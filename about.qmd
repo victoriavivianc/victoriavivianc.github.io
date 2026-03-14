@@ -1,17 +1,17 @@
 ---
-title: "About"
+title: ""
 ---
 
 ::: {.section-card}
 # About Me
 
-I’m a Statistics & Data Science student at UCLA with a strong interest in quantitative analysis, finance, and data-driven storytelling. My academic and project work has helped me build a foundation in statistical modeling, inference, machine learning, and experimental design, while also showing me the importance of clear communication and context.
+I am a Statistics and Data Science student at UCLA interested in statistical modeling, data analysis, and quantitative research. My work focuses on using data to better understand real-world problems and communicate insights clearly through analysis, visualization, and structured storytelling.
 
-What draws me most to this field is the ability to turn complex information into insight. I enjoy the full process of analytical work: asking the right questions, cleaning and understanding the data, selecting methods carefully, and presenting results in a way that is useful and persuasive. For me, strong analysis is not only about technical correctness, but also about clarity, structure, and impact.
+Through coursework and projects, I have worked with methods including regression modeling, classification algorithms, ANOVA, and broader statistical learning techniques. I enjoy combining technical analysis with clear explanations so that complex findings can be communicated in a way that is both rigorous and accessible.
 
-Beyond coursework, I’ve explored this through internships, research-based projects, and leadership experiences. My work has included credit risk and data science at GoTo, public-facing digital humanities research, and student-led projects in statistical learning and applied inference. These experiences have strengthened both my technical skills and my interest in solving real-world problems with data.
+My interests span several areas, including data science, applied statistics, quantitative finance, and research that uses data to study social and economic systems. I am particularly interested in how statistical methods can reveal patterns in large datasets and support evidence-based decision making.
 
-I’m especially interested in opportunities at the intersection of analytics, finance, and decision-making. Looking ahead, I hope to continue building work that combines quantitative rigor with strong communication, whether in risk, strategy, data science, or broader analytical roles.
+Beyond coursework, I enjoy building projects that combine statistical methods with real datasets, whether through predictive modeling, exploratory data analysis, experimental design, or public-facing digital research.
 :::
 
 ::: {.section-card}

@@ -1,0 +1,8 @@
+"0",""
+"0","crime %>%"
+"0","  summarise(across(everything(), ~ sum(is.na(.)))) %>%"
+"0","  pivot_longer(everything(), names_to = ""column"", values_to = ""n_missing"") %>%"
+"0","  mutate(pct_missing = n_missing / nrow(crime)) %>%"
+"0","  arrange(desc(n_missing)) %>%"
+"0","  slice_head(n = 15) %>%"
+"0","  print(n = 15)"

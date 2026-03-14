@@ -1,0 +1,31 @@
+{
+    "id": "84D58B2E",
+    "path": "~/Documents/victoria-portfolio-site/about.qmd",
+    "project_path": "about.qmd",
+    "type": "quarto_markdown",
+    "hash": "2067211469",
+    "contents": "",
+    "dirty": false,
+    "created": 1773352278091.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "11,212",
+        "scrollLine": "0",
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "24:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1773525184,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1773525184407,
+    "read_only": false,
+    "read_only_alternatives": []
+}

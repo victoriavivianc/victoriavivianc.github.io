@@ -1,0 +1,26 @@
+---
+title: ""
+---
+
+::: {.section-card .contact-links}
+# Contact
+
+I’d be happy to connect about opportunities, projects, or anything related to data science, analytics, finance, or research.
+
+<p>
+<i class="bi bi-envelope"></i>
+<a href="mailto:chanvictoriavivian@gmail.com">chanvictoriavivian@gmail.com</a>
+</p>
+
+<p>
+<i class="bi bi-linkedin"></i>
+<a href="https://www.linkedin.com/in/victoria-vivian-chan/" target="_blank">
+Victoria Vivian Chan
+</a>
+</p>
+
+<p>
+<i class="bi bi-file-earmark-person"></i>
+<a href="resume.pdf" target="_blank">Resume</a>
+</p>
+:::

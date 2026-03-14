@@ -1,0 +1,45 @@
+---
+title: "Experience"
+---
+
+::: {.section-card}
+# Experience
+
+::: {.timeline-list}
+
+::: {.timeline-item}
+<div class="timeline-role"><i class="bi bi-briefcase"></i> Data Science Intern — GoTo</div>
+<div class="timeline-meta">2025</div>
+
+Worked on credit risk and model-monitoring related tasks, including performance analysis, drift checks, and production-oriented data workflows. Supported analytical work that connected modeling, business risk, and real-world deployment.
+:::
+
+::: {.timeline-item}
+<div class="timeline-role"><i class="bi bi-briefcase"></i> Corporate Development Intern — GoTo</div>
+<div class="timeline-meta">2024</div>
+
+Supported strategic and market research projects through analysis of industry trends, financial materials, and business reports. Contributed to presentations and research used for broader corporate decision-making.
+:::
+
+::: {.timeline-item}
+<div class="timeline-role"><i class="bi bi-people"></i> President — Indonesian Bruin Student Association</div>
+<div class="timeline-meta">UCLA</div>
+
+Led student programming, planning, and coordination efforts while helping strengthen community engagement on campus. Worked across teams to organize events, manage responsibilities, and support club initiatives.
+:::
+
+::: {.timeline-item}
+<div class="timeline-role"><i class="bi bi-trophy"></i> Data Journalist — Bruin Sports Analytics</div>
+<div class="timeline-meta">UCLA</div>
+
+Created sports-focused analytical content that combined data, storytelling, and visual communication. Used quantitative methods to explore patterns in performance and communicate findings in an engaging way.
+:::
+
+:::
+:::
+
+::: {.section-card}
+## <i class="bi bi-tools"></i> Tools
+
+R, Python, SQL, Excel, Kubeflow, QuickBI, Quarto, and data visualization workflows for research, reporting, and presentation.
+:::
